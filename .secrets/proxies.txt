@@ -1,7 +1,10 @@
-# Proxy list format: protocol://user:pass@host:port
-# Or just: protocol://host:port
-# Example:
-# http://username:password@proxy.example.com:8080
-# socks5://10.0.0.1:1080
-#
-# Add your proxies below (one per line):
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10001
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10002
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10003
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10004
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10005
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10006
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10007
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10008
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10009
+http://spt4xv7kcv:6Wjeeb6oOzSi8b4+Md@isp.decodo.com:10010
