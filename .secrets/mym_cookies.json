@@ -1,0 +1,102 @@
+[
+  {
+    "name": "_GRECAPTCHA",
+    "value": "09AKhCRwha_ZzN2fg9oFFE_99KDnqL9P35UyK7nfMVPPAUvaPT0MpbaTSAKP2j1zsFPVNNLX9W3V7AeSms5y3f-bc",
+    "domain": "www.google.com",
+    "path": "/recaptcha",
+    "expires": 1786507249.962395,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_locale",
+    "value": "en",
+    "domain": "mym.fans",
+    "path": "/",
+    "expires": 1772251269.001659,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "PHPSESSID",
+    "value": "egvj8vs55kcvb68hdgejnfbv6u",
+    "domain": "mym.fans",
+    "path": "/",
+    "expires": 1771559022.476283,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.744700032.1770955223",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1778731223,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1799453078.1770955224",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1771041669,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat_UA-40988129-17",
+    "value": "1",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1770955283,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1770955223788.474792132958266340",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1778731269,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "id_creator_origin",
+    "value": "5ff7ab1b-cb11-4f1c-9c43-59616b62b40a",
+    "domain": "mym.fans",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_9WD7M2HTPT",
+    "value": "GS2.1.s1770955223$o1$g1$t1770955269$j14$l0$h0",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1805515269.359465,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.2004684214.1770955224",
+    "domain": ".mym.fans",
+    "path": "/",
+    "expires": 1805515269.361459,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

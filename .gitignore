@@ -1,9 +1,3 @@
-# Secrets and sensitive data
-.secrets/
-*.sqlite3
-*_cookies.json
-api_requests.json
-
 # Python
 __pycache__/
 *.py[cod]
@@ -44,10 +38,6 @@ Thumbs.db
 
 # Logs
 *.log
-
-# Exported data (optional - uncomment if you want to track exports)
-# *.csv
-# *.json
 
 # Temporary files
 *.tmp
