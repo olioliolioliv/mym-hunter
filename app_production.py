@@ -16,7 +16,7 @@ import threading
 from pathlib import Path
 from datetime import datetime
 from flask import Flask, render_template_string, jsonify, request, send_file
-from flask_socketio import Socket IO, emit
+from flask_socketio import SocketIO, emit
 from mym_mass_scraper import MYMMassScraper
 
 app = Flask(__name__)
