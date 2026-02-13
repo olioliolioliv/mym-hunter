@@ -23,3 +23,7 @@ colorama>=0.4.6
 
 # Optional: Proxy support (SOCKS)
 # pysocks>=1.7.1
+
+# WebSocket for real-time dashboard
+python-socketio>=5.10.0
+eventlet>=0.33.3
